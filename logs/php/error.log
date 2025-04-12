@@ -1,0 +1,16 @@
+[09-Apr-2025 20:37:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[09-Apr-2025 21:00:48 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[10-Apr-2025 01:59:35 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 17:44:24 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 19:06:24 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 19:07:06 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 19:56:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 21:13:40 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 22:32:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[11-Apr-2025 22:57:21 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\user\Local Sites\wimbu\app\public\wp-content\themes\hello-elementor\functions.php on line 341
+[11-Apr-2025 22:57:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[11-Apr-2025 22:57:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\user\Local Sites\wimbu\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[11-Apr-2025 22:57:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\user\Local Sites\wimbu\app\public\wp-content\themes\hello-elementor\functions.php on line 341
+[11-Apr-2025 22:57:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\user\Local Sites\wimbu\app\public\wp-content\themes\hello-elementor\functions.php on line 341
+[11-Apr-2025 22:57:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\user\Local Sites\wimbu\app\public\wp-content\themes\hello-elementor\functions.php on line 341
+[11-Apr-2025 22:57:49 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\user\Local Sites\wimbu\app\public\wp-content\themes\hello-elementor\functions.php on line 341
